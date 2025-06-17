@@ -1,1 +1,2 @@
 This line combines both changes.
+bad line
